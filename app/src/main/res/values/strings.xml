@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RetrofitDemoApplication</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+
+    <string-array name="countries_array">
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iceland</item>
+        <item>Malaysia</item>
+        <item>Denmark</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Canada</item>
+        <item>Australia</item>
+
+    </string-array>
+
+</resources>
